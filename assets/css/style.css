@@ -1,0 +1,52 @@
+body{
+    background:url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwizg_P365LlAhUPT6wKHfJwB-0QjRx6BAgBEAQ&url=https%3A%2F%2Fstock.adobe.com%2Fhu%2Fimages%2Ftrains-stopped-against-railway-station-building-on-background-people-walking-and-waiting-on-platform-covered-by-snow-passenger-rail-transport-railroad-transportation-hand-drawn-vector-illustration%2F191201637&psig=AOvVaw3BFvwV7xSw_xv5Z2y1Q3BX&ust=1570836437634086");
+  }
+  .jumbotron{
+    background-color:#efffff;
+    color:black;
+    border:5px grey solid;
+  font: 2em Arial,sans-serif;
+  }
+  .ride{
+    font-size:40px;
+    color:blue;
+  }
+  
+  .panel-body{
+    border:5px grey solid;
+  }
+  .current ,.add{
+    background-color:peachpuff;
+    color:black;
+    font-size:20px;
+  }
+  #trainTable{
+    background-color:#efffff;
+    color:black;
+    font-size:20px;
+    font: bold;
+  }
+  #trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+    color:black;
+    font-size:18px;
+    background-color:#efffff;
+  }
+  .form-group{
+    color: black;
+    font-size:20px;
+  }
+  .btn{
+    background-color:green;
+    font-size:20px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
