@@ -9,7 +9,7 @@ body{
   }
   .ride{
     font-size:40px;
-    color:blue;
+    color:rgb(13, 13, 22);
   }
   
   .panel-body{
@@ -18,26 +18,26 @@ body{
   .current ,.add{
     background-color:peachpuff;
     color:black;
-    font-size:20px;
+    font-size:15px;
   }
   #trainTable{
     background-color:#efffff;
     color:black;
-    font-size:20px;
+    font-size:18px;
     font: bold;
   }
   #trainNameInput,#destinationInput,#timeInput,#frequencyInput{
     color:black;
-    font-size:18px;
+    font-size:15px;
     background-color:#efffff;
   }
   .form-group{
     color: black;
-    font-size:20px;
+    font-size:25px;
   }
   .btn{
-    background-color:green;
-    font-size:20px;
+    background-color:rgb(99, 33, 129);
+    font-size:25px;
   }
   
   
